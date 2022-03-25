@@ -1,5 +1,7 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" height="175px"/></a>
 
+<p align="center">
+<a href="#" align="center"><img width="60%" height="auto" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" height="175px"/></a>
+<p/>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm iSMAIL</h1>
 <h3 align="center">I'm a Awersome Web-Developer from Pakistan.
 <br/>
@@ -11,12 +13,9 @@ Running my  own <b>softeare-hoUse</b>
 ## 🎉 Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ismailmuhammed
-"> 
+    <img src="https://komarev.com/ghpvc/?username=ismailmuhammed">
 </a>
-<a href="https://github.com/ismailmuhammed
-?tab=followers"><img src="https://img.shields.io/github/followers/ismailmuhammed
-?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ismailmuhammed?tab=followers"><img src="https://img.shields.io/github/followers/ismailmuhammed?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
 <br/>
@@ -25,20 +24,13 @@ Running my  own <b>softeare-hoUse</b>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/
-react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://
-img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/
-html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/
-000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/
-bootstrap.png"/> </a> 
-   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/
-000000/firebase.png"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.
-png"/> </a> 
+     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+     <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/> 
+     <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+     <img src="https://img.icons8.com/color/48/000000/metamask-logo.png"/>
    
    
    
@@ -63,35 +55,24 @@ png"/> </a>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ismailmuhammed/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ismailmuhammed
-'s streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailmuhammed
-&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ismailmuhammed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailmuhammed&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 🎯 My Github Stats
 
   <br/>
-    <a href="https://github.com/ismailmuhammed
-/github-readme-stats"><img alt="ismailmuhammed
-'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismailmuhammed
-&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ismailmuhammed
-/github-readme-stats"><img alt="ismailmuhammed
-'s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammed
-&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ismailmuhammed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmuhammed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
+  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ismailmuhammed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/ismailmuhammed
-/github-readme-activity-graph"><img alt="ismailmuhammed
-'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ismailmuhammed
-&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
@@ -107,9 +88,6 @@ png"/> </a>
 <img style="width:48px; height:48px;"  src="https://facebook-clone-shayan.netlify.app/icons/favicon/facebook.png"/>
 </a>
 </p>
-
-
-
 
 
 
