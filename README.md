@@ -1,11 +1,11 @@
 
 <p align="center">
-<a href="#" align="center"><img width="60%" height="auto" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" height="175px"/></a>
+<a href="#" align="center"><img width="50%" height="auto" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" height="175px"/></a>
 <p/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm iSMAIL</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Muhammed Ismail</h1>
 <h3 align="center">I'm a Awersome Web-Developer from Pakistan.
 <br/>
-Running my  own <b>softeare-hoUse</b>
+Running my  own independent <b>software-hoUse</b>
 </h3>
 
 
